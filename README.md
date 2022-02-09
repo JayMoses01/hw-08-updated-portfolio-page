@@ -8,7 +8,9 @@ I created a more "polished" version of my portfolio website. Details:
 * The portfolio also incldues my contact information, links to my GitHub and LinkedIn profiles, a link to download my resume.
 * I used the Bulma CSS framework (https://bulma.io/) to give my website a more polished look and feel, with a mobile-first design.
 
-![image](https://user-images.githubusercontent.com/95326705/153139424-3cdd2da0-4fae-47c5-a3d7-d73ca339cc12.png)
+![image](https://user-images.githubusercontent.com/95326705/153139693-c7a1d9a2-12dd-4bac-95ed-fc8141f5a806.png)
+
+![image](https://user-images.githubusercontent.com/95326705/153139730-cb5953be-292c-4aa2-874a-0e25d229787d.png)
 
 URL: https://jaymoses01.github.io/hw-08-updated-portfolio-page/
 
