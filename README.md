@@ -5,8 +5,8 @@
 
 I created a more "polished" version of my portfolio website. Details:
 * The updated website features my first project and two homework assignments.
-* The portfolio also incldues my contact information, links to my GitHub and LinkedIn profiles, a link to download my resume.
-* I used the Bulma CSS framework (https://bulma.io/) to give my website a more polished look and feel, with a mobile-first design.
+* The portfolio also includes my contact information, links to my GitHub and LinkedIn profiles, and a link to download my resume.
+* I utilized the Bulma CSS framework (https://bulma.io/) to give my website a more polished look and feel, with a mobile-first design.
 
 ![image](https://user-images.githubusercontent.com/95326705/153139693-c7a1d9a2-12dd-4bac-95ed-fc8141f5a806.png)
 
@@ -23,7 +23,7 @@ I have also updated my GitHub profile with:
 * Email address.
 * Link to my deployed portfolio.
 * Pinned repositories featuring my first project and two homework assignments.
-* I made sure that my README.md files contain: title of the application, link to the deployed application, list of technologiees used, 1-2 sentences explaining the application is, 2-3 screenshots of the application, license details (MIT), and contact information for myself and any other collaborators.
+* I made sure that my README.md files contained: a title of the application, link to the deployed application, list of technologiees used, 1-2 sentences explaining the application is, 2-3 screenshots of the application, license details (MIT), and contact information for myself and any other collaborators.
 
 I have also followed a few other classmates from my UCSD Extension Coding Boot Camp cohort.
 
@@ -32,7 +32,7 @@ I have also followed a few other classmates from my UCSD Extension Coding Boot C
 
 I have updated my resume to make sure it included:
 * Name, phone number, professional email address, links to LinkedIn, my portfolio, and GitHub.
-* A "technical skills" section with all programming languagees and technologies listed.
+* A "technical skills" section with all programming languages and technologies listed.
 * My first project and two exemplary homework assignments, languages used, and URLs.
 
 
