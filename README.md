@@ -16,6 +16,7 @@ I have also updated my GitHub profile with:
 * Email address.
 * Link to my deployed portfolio.
 * Pinned repositories featuring my first project and two homework assignments.
+* I made sure that my README.md files contain: title of the application, link to the deployed application, list of technologiees used, 1-2 sentences explaining the application is, 2-3 screenshots of the application, license details (MIT), and contact information for myself and any other collaborators.
 
 I have also followed a few other classmates from my UCSD Extension Coding Boot Camp cohort.
 
