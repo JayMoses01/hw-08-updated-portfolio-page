@@ -40,6 +40,6 @@ I have updated my resume to make sure it included:
 
 I also made sure that my LinkedIn profile has:
 * A strong bio statement.
-* Professional photo.
+* A professional photo.
 * Links to my GitHub and portfolio.
 
